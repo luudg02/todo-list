@@ -1,0 +1,1 @@
+items.POST("", ginitem.CreateItem(db))       // Định nghĩa một route với method POST và path đầy đủ là "/v1/items" - Tạo mới một item
